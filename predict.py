@@ -3,7 +3,7 @@ from torchvision import datasets, transforms, models
 from image_classifier import load_checkpoint, plot_predicts
 
 def main():
-    parser = argparse.ArgumentParser(description='Train image classifier.')
+    parser = argparse.ArgumentParser(description='Predict Image Class.')
 
     parser.add_argument('--image_path', action='store',
                         dest='image_path', default='../aipnd-project/flowers/test/11/image_03141.jpg',
