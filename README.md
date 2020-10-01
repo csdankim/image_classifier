@@ -1,3 +1,4 @@
+# Deep Learning
 # Image classification (102 flower categories) using Pytorch and VGG16
 
 Project code for Udacity's Machine Learning Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application. The image classifier to recognize different species of flowers. Dataset contains 102 flower categories.
