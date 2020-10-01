@@ -4,7 +4,7 @@ Project code for Udacity's Machine Learning Nanodegree program. In this project,
 
 ## Codes:
 - [Image Classifier Project.ipynb](https://github.com/csdankim/image_classifier/blob/master/Image%20Classifier%20Project.ipynb)
-* Application
+  ### Application
 - [image_classifier.py](https://github.com/csdankim/image_classifier/blob/master/image_classifier.py)
 - [train.py](https://github.com/csdankim/image_classifier/blob/master/train.py)
 - [predict.py](https://github.com/csdankim/image_classifier/blob/master/predict.py)
